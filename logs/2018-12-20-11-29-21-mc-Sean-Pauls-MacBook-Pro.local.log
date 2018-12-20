@@ -1,0 +1,45 @@
+2018-12-20 11:29:21,585 : kivy : Factory: 194 symbols loaded
+2018-12-20 11:29:21,691 : kivy : Image: Providers: img_tex, img_imageio, img_dds, img_sdl2, img_pil, img_gif (img_ffpyplayer ignored)
+2018-12-20 11:29:21,731 : kivy : VideoGstplayer: Using Gstreamer 1.10.4.0
+2018-12-20 11:29:21,731 : kivy : Video: Provider: gstplayer
+2018-12-20 11:29:21,774 : kivy : Loading MPF-MC controller
+2018-12-20 11:29:21,774 : mpfmc : Mission Pinball Framework Media Controller v0.50.8
+2018-12-20 11:29:21,774 : mpfmc : Mission Pinball Framework Game Engine v0.50.21
+2018-12-20 11:29:21,775 : mpfmc : Machine path: /Users/seanpaulfenton/src/mpf/dmd_test
+2018-12-20 11:29:21,778 : ConfigProcessor : Config file in cache changed: /Users/seanpaulfenton/src/mpf/dmd_test/config/config
+2018-12-20 11:29:22,056 : ConfigProcessor : Loading config from file /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mpfmc/mcconfig.yaml.
+2018-12-20 11:29:22,093 : ConfigProcessor : Loading config: /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mpfmc/mcconfig.yaml
+2018-12-20 11:29:22,094 : ConfigProcessor : Loading config from file /Users/seanpaulfenton/src/mpf/dmd_test/config/config.
+2018-12-20 11:29:22,101 : ConfigProcessor : Loading config: /Users/seanpaulfenton/src/mpf/dmd_test/config/config
+2018-12-20 11:29:22,102 : ConfigProcessor : Config file cache created: /var/folders/nx/hjkv90px0cg9f03hrdxkbb700000gn/T/f28b66e538c90144a5853fa4322ed81f.mpf_cache
+2018-12-20 11:29:22,102 : mpfmc : Starting clock at 60.0Hz
+2018-12-20 11:29:22,109 : kivy : Text: Provider: sdl2
+2018-12-20 11:29:22,377 : kivy : Window: Provider: sdl2
+2018-12-20 11:29:22,469 : kivy : GL: Using the "OpenGL ES 2" graphics system
+2018-12-20 11:29:22,469 : kivy : GL: Backend used <gl>
+2018-12-20 11:29:22,469 : kivy : GL: OpenGL version <b'2.1 ATI-1.42.15'>
+2018-12-20 11:29:22,469 : kivy : GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2018-12-20 11:29:22,469 : kivy : GL: OpenGL renderer <b'AMD Radeon R9 M370X OpenGL Engine'>
+2018-12-20 11:29:22,469 : kivy : GL: OpenGL parsed version: 2, 1
+2018-12-20 11:29:22,469 : kivy : GL: Shading version <b'1.20'>
+2018-12-20 11:29:22,470 : kivy : GL: Texture max size <16384>
+2018-12-20 11:29:22,470 : kivy : GL: Texture max units <16>
+2018-12-20 11:29:22,482 : kivy : Window: auto add sdl2 input provider
+2018-12-20 11:29:22,483 : kivy : Window: virtual keyboard not allowed, single mode, not docked
+2018-12-20 11:29:22,486 : SoundSystem : SoundSystem: Using default 'sound_system' settings
+2018-12-20 11:29:22,546 : AudioInterface : Initialized
+2018-12-20 11:29:22,546 : SoundSystem : No audio tracks are specified in your machine config file. a track named 'default' has been created.
+2018-12-20 11:29:22,548 : kivy : Base: Start application main loop
+2018-12-20 11:29:22,589 : mpfmc : Display: Setting 'dmd' as default display
+2018-12-20 11:29:22,615 : ConfigProcessor : Loading config from cache: /var/folders/nx/hjkv90px0cg9f03hrdxkbb700000gn/T/32cd8b071fad79ae9a4a259481fe805f.mpf_cache
+2018-12-20 11:29:22,615 : ConfigProcessor : Loading config from cache: /var/folders/nx/hjkv90px0cg9f03hrdxkbb700000gn/T/f0ad60b4105f886c0dadf14c345dcef3.mpf_cache
+2018-12-20 11:29:22,616 : MPF-MC BCP Server : Starting up on localhost port 5050
+2018-12-20 11:29:22,617 : MPF-MC BCP Server : Waiting for a connection...
+2018-12-20 11:29:22,617 : mpfmc : SlidePlayer: Play called with settings={'slides': {'window_slide_1': {'target': 'window', 'priority': None, 'background_color': [0.0, 0.0, 0.0, 1.0], 'show': True, 'force': False, 'expire': None, 'slide': None, 'action': 'play', 'transition': None, 'transition_out': None}, 'dmd_slide_1': {'target': 'dmd', 'priority': None, 'background_color': [0.0, 0.0, 0.0, 1.0], 'show': True, 'force': False, 'expire': None, 'slide': None, 'action': 'play', 'transition': None, 'transition_out': None}}}
+2018-12-20 11:29:22,623 : kivy : GL: NPOT texture support is available
+2018-12-20 11:29:22,692 : MPF-MC BCP Server : Received connection from: 127.0.0.1:65022
+2018-12-20 11:29:22,695 : mpfmc : Initializing DMD
+2018-12-20 11:29:22,709 : mpfmc : Setting DMD to 30fps
+2018-12-20 11:29:22,711 : BcpProcessor : Received invalid BCP command: mode_list
+2018-12-20 11:29:22,724 : mpfmc : SlidePlayer: Play called with settings={'slides': {'window_slide_1': {'target': 'window', 'priority': None, 'background_color': [0.0, 0.0, 0.0, 1.0], 'show': True, 'force': False, 'expire': None, 'slide': None, 'action': 'play', 'transition': None, 'transition_out': None}, 'dmd_slide_1': {'target': 'dmd', 'priority': None, 'background_color': [0.0, 0.0, 0.0, 1.0], 'show': True, 'force': False, 'expire': None, 'slide': None, 'action': 'play', 'transition': None, 'transition_out': None}}}
+2018-12-20 11:29:29,596 : kivy : Base: Leaving application in progress...

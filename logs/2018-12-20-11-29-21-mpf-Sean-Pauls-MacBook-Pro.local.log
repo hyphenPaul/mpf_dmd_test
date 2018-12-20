@@ -1,0 +1,18 @@
+2018-12-20 11:29:21,429 : INFO : Machine : Mission Pinball Framework Core Engine v0.50.21
+2018-12-20 11:29:21,429 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'mpfconfigfile': '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mpf/mpfconfig.yaml', 'force_assets_load': False, 'logfile': 'logs/2018-12-20-11-29-21-mpf-Sean-Pauls-MacBook-Pro.local.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None}
+2018-12-20 11:29:21,429 : INFO : Machine : MPF path: /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mpf
+2018-12-20 11:29:21,429 : INFO : Machine : Machine path: /Users/seanpaulfenton/src/mpf/dmd_test
+2018-12-20 11:29:21,430 : INFO : Machine : Platform: darwin
+2018-12-20 11:29:21,430 : INFO : Machine : Python executable location: /Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+2018-12-20 11:29:21,430 : INFO : Machine : Python version: 3.6.5 (64-bit)
+2018-12-20 11:29:21,701 : INFO : Machine : Machine config file #1: config.yaml
+2018-12-20 11:29:21,704 : INFO : ConfigProcessor : Loading config from cache: /var/folders/nx/hjkv90px0cg9f03hrdxkbb700000gn/T/a2dc7ce5539454134f4181dc288f059d.mpf_cache
+2018-12-20 11:29:21,705 : INFO : Machine : Initialise MPF.
+2018-12-20 11:29:21,713 : INFO : P-ROC : Connecting to P-ROC
+2018-12-20 11:29:21,815 : INFO : P-ROC : Successfully connected to P-ROC/P3-ROC. Firmware Version: 1. Firmware Revision: 22. Hardware Board ID: 1
+2018-12-20 11:29:22,038 : INFO : ConfigProcessor : Loading config from cache: /var/folders/nx/hjkv90px0cg9f03hrdxkbb700000gn/T/f0ad60b4105f886c0dadf14c345dcef3.mpf_cache
+2018-12-20 11:29:22,042 : INFO : ConfigProcessor : Loading config from cache: /var/folders/nx/hjkv90px0cg9f03hrdxkbb700000gn/T/32cd8b071fad79ae9a4a259481fe805f.mpf_cache
+2018-12-20 11:29:22,057 : INFO : BCPClientSocket.local_display : Connecting BCP to 'local_display' at localhost:5050...
+2018-12-20 11:29:22,692 : INFO : BCPClientSocket.local_display : Connected BCP to 'local_display' localhost:5050
+2018-12-20 11:29:22,767 : INFO : Mode.attract : Started. Priority: 10
+2018-12-20 11:29:22,778 : INFO : Machine : Starting the main run loop.
